@@ -1,5 +1,6 @@
 # Inventory Management System in Excel
 
+![image](https://github.com/user-attachments/assets/37eb364a-3369-44c9-891e-dde4dec9fda7)
 
 
 Description: An interactive and automated Excel-based Inventory Management System designed to track and manage stock, sales, purchases, and customers data with real-time dashboard analytics and re-order alerts.
