@@ -1,4 +1,4 @@
-# Inventory Management System in Excel
+# Automated Inventory Management System in Excel
 
 ![image](https://github.com/user-attachments/assets/db2e4a59-92c0-4ac9-9d75-87af01c7b904)
 
